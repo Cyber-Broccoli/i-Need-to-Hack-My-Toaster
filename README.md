@@ -1,2 +1,5 @@
 # Need-to-Hack-My-Toaster
-CTF and CyberSec stuff repo
+
+TryHackMe profile: https://tryhackme.com/p/CyberBroccoli
+
+Root-Me profile: https://www.root-me.org/JazzInNovember
