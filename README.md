@@ -1,4 +1,4 @@
-# Need-to-Hack-My-Toaster
+# Need to Hack My Toaster
 
 TryHackMe profile: https://tryhackme.com/p/CyberBroccoli
 
