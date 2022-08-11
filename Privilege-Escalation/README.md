@@ -1,4 +1,4 @@
-# Privilege Escalation - Binaries: thanks to GTFOBins
+# Privilege Escalation - GTFOBins
 https://gtfobins.github.io/
 
 # Privilege Escalation scripts
