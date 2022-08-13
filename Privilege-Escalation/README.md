@@ -1,5 +1,5 @@
 # Privilege Escalation Tools
 
-- [GTFOBins](GTFOBins.md)\
+- [GTFOBins](GTFOBins.md)
 - [OS Enumeration](OS-Enumeration.md)
 
