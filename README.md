@@ -61,9 +61,10 @@ Portable pentest box environnement:
 :key: Default credentials              
 :page_facing_up: File transfer
 
-## Network protocols :globe_with_meridians:
-:open_file_folder: SMB (139, 445)
+<!-- Line break is done with two spaces at the end of the line-->
 
+## Network protocols :globe_with_meridians:
+:open_file_folder: SMB (139, 445)  
 :postbox: FTP (21)
 
 ## Enumeration :mag:
