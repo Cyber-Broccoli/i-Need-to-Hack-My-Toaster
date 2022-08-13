@@ -30,11 +30,10 @@ kali
 ### Keep: https://github.com/OrkoHunter/keep
 Keep acts like a library command manager
 
-Cool thing is you can even push it to a Github gist for backup.
-
 ```shell
 ┌─[root@kali]─[/home/kali]
 └──╼ #keep list | grep "wordpress"
 | 3  | $ wpscan --url http://url-before-wp-login-page -U admin -P /usr/share/wordlists/rockyou.txt             | Wpscan Wordpress user and/or password bruteforce - Example              | wpscan_wordpress_bruteforce |
 | 4  | $ wpscan --url http://url-before-wp-login-page -e u                                                     | Wpscan enumerate Wordpress users - Generic                              | wpscan_wordpress_enum_users |
 ```
+Cool thing is you can even push your library to a Github gist as a backup.
