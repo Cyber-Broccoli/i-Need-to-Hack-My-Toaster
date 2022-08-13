@@ -55,3 +55,29 @@ Portable pentest box environnement:
 - No extra dependencies required.
 - Tools manager since v2.0
 - Can run from an USB stick.
+
+# :paperclip: Hacking Notes (In progress :construction_worker:)
+## Cheat Sheets  :pushpin:
+:key: Default credentials              
+:page_facing_up: File transfer
+
+## Network protocols :globe_with_meridians:
+:open_file_folder: SMB (139, 445)
+
+:postbox: FTP (21)
+
+## Enumeration :mag:
+
+## Tools :wrench: 
+
+## Exploitation :dart: 
+
+## Privilege escalation :crown: 
+
+## Web exploitation techniques :clipboard:
+
+## Encoding :unlock: 
+
+## Cryptography :closed_lock_with_key: 
+
+## Methodology :notebook: 
