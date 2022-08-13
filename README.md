@@ -1,4 +1,4 @@
-# Need to Hack My Toaster
+# Need to Hack my Toaster
 
 TryHackMe profile: https://tryhackme.com/p/CyberBroccoli
 
@@ -37,3 +37,20 @@ Keep acts like a library command manager
 | 4  | $ wpscan --url http://url-before-wp-login-page -e u                                                     | Wpscan enumerate Wordpress users - Generic                              | wpscan_wordpress_enum_users |
 ```
 Cool thing is you can even push your library to a Github gist as a backup.
+
+### Pentest.WS: https://pentest.ws
+PenTest.WS is a penetration testing web application for organizing hosts, services, vulnerabilities and credentials during a penetration test. A reporting module is available for documenting and delivering a full penetration test.
+
+Free version is sufficient for CTF writeup and/or keep trace of gathered informations.
+Also have some cool tools: 
+- MSFvenom builder: https://pentest.ws/tools/venom-builder 
+- Reverse shell generator with shell upgrades and fixes: https://pentest.ws/e/XxYpLM6d#tools/shells
+
+# My Girl is Gonna Kill Me
+### Pentest Box: https://pentestbox.org
+Portable pentest box environnement: 
+- Runs directly on host machine. 
+- Contains nearly all Linux utilities https://tools.pentestbox.org/#linux-utilities
+- No extra dependencies required.
+- Tools manager since v2.0
+- Can run from an USB stick.
