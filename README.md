@@ -47,6 +47,7 @@ Also have some cool tools:
 - Reverse shell generator with shell upgrades and fixes: https://pentest.ws/e/XxYpLM6d#tools/shells
 
 # My Girl is Gonna Kill Me
+Girl listen to me: promise,no Kali during holdidays. Deal.
 ### Pentest Box: https://pentestbox.org
 Portable pentest box environnement: 
 - Runs directly on host machine. 
