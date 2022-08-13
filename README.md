@@ -47,7 +47,7 @@ Also have some cool tools:
 - Reverse shell generator with shell upgrades and fixes: https://pentest.ws/e/XxYpLM6d#tools/shells
 
 # My Girl is Gonna Kill Me :broken_heart:
-Girl listen to me: promise,no Kali during holdidays. Deal. :smiling_imp:
+Girl listen to me: promise,no Kali during holidays. I'll deal with it. :smiling_imp:
 ### Pentest Box: https://pentestbox.org
 Portable pentest box environnement: 
 - Runs directly on host machine. 
