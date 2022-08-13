@@ -1,11 +1,11 @@
-# Need to Hack my Toaster
+# Need to Hack my Toaster :zap:
 
 TryHackMe profile: https://tryhackme.com/p/CyberBroccoli
 
 Root-Me profile: https://www.root-me.org/JazzInNovember
 
 
-# Lazy-Broccoli
+# Lazy-Broccoli :trophy:
 
 ### The F*ck: https://github.com/nvbn/thefuck
 
@@ -26,7 +26,7 @@ whoami [enter/↑/↓/ctrl+c]
 kali
 ```
 
-# Messy-Broccoli
+# Messy-Broccoli :point_left: 
 ### Keep: https://github.com/OrkoHunter/keep
 Keep acts like a library command manager
 
@@ -46,8 +46,8 @@ Also have some cool tools:
 - MSFvenom builder: https://pentest.ws/tools/venom-builder 
 - Reverse shell generator with shell upgrades and fixes: https://pentest.ws/e/XxYpLM6d#tools/shells
 
-# My Girl is Gonna Kill Me
-Girl listen to me: promise,no Kali during holdidays. Deal.
+# My Girl is Gonna Kill Me :broken_heart:
+Girl listen to me: promise,no Kali during holdidays. Deal. :smiling_imp:
 ### Pentest Box: https://pentestbox.org
 Portable pentest box environnement: 
 - Runs directly on host machine. 
