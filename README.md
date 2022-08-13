@@ -51,7 +51,7 @@ Girl listen to me: promise,no Kali during holdidays. Deal. :smiling_imp:
 ### Pentest Box: https://pentestbox.org
 Portable pentest box environnement: 
 - Runs directly on host machine. 
-- Contains nearly all Linux utilities https://tools.pentestbox.org/#linux-utilities
+- Contains nearly all Linux utilities
 - No extra dependencies required.
 - Tools manager since v2.0
 - Can run from an USB stick.
