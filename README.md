@@ -65,9 +65,9 @@ Portable pentest box environnement:
 
 ## Network protocols :globe_with_meridians:
 :open_file_folder: SMB (139, 445)  
-:postbox: FTP (21)
-:lock: SSH (22)
-:computer: RDP (3389)
+:postbox: FTP (21)  
+:lock: SSH (22)  
+:computer: RDP (3389)  
 
 ## Enumeration :mag:
 
