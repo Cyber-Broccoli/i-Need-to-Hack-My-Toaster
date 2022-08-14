@@ -82,7 +82,16 @@ Portable pentest box environnement:
 ## Encoding :unlock: 
 
 ## Stenography :monocle_face:
-<! -- ExifTool is used to read and write metadata in various file types, such as JPEG images. -->
+:camera: Exiftool  
+<! -- ExifTool is used to read and write metadata in various file types, such as JPEG images. -->  
+:see_no_evil: Steghide  
+:eyes: Stegsolve  
+:parrot: StegLSB  
+:mage_man: StegPVD  
+:hear_no_evil: Stegwav  
+:speech_balloon: Stegsnow  
+:paw_prints: Paddinograph  
+:pinata: Strings  
 
 ## Cryptography :closed_lock_with_key: 
 
