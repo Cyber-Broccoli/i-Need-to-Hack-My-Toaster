@@ -5,7 +5,7 @@ TryHackMe profile: https://tryhackme.com/p/CyberBroccoli
 Root-Me profile: https://www.root-me.org/JazzInNovember
 
 
-# Lazy-Broccoli :trophy:
+# Lazy-Broccoli 👑
 
 ### The F*ck: https://github.com/nvbn/thefuck
 
@@ -26,7 +26,7 @@ whoami [enter/↑/↓/ctrl+c]
 kali
 ```
 
-# Messy-Broccoli :point_left: 
+# Messy-Broccoli 👹
 ### Keep: https://github.com/OrkoHunter/keep
 Keep acts like a library command manager
 
