@@ -1,4 +1,4 @@
-# Need to Hack my Toaster :zap:
+# I Need to Hack my Toaster :zap:
 
 TryHackMe profile: https://tryhackme.com/p/CyberBroccoli
 
