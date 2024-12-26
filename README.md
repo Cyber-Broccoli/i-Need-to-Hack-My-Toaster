@@ -1,11 +1,5 @@
 # Need to Hack my Toaster
 
-TryHackMe profile: https://tryhackme.com/p/CyberBroccoli
-
-Root-Me profile: https://www.root-me.org/JazzInNovember
-
-I did not play a lot this year, maybe i'll be back on 2025. Need to help on THM Xmas, sure the Grinch has some glitches under his hat !
-
 # Lazy
 
 ## The F*ck: https://github.com/nvbn/thefuck
