@@ -1,8 +1,9 @@
-# Need to Hack my Toaster
+# I need to hack my toaster
+This repository is just here to keep notes of useful stuff for CTF or cybersec stuff.
 
-# Lazy
+## Useful terminal stuff
 
-## The F*ck: https://github.com/nvbn/thefuck
+### The F*ck: https://github.com/nvbn/thefuck
 
 Typing too fast ? The Fuck corrects previous mispelled command in your terminal just by typing `fuck` after you got the command error. Much more fun than correct it yourself.
 
@@ -21,8 +22,7 @@ whoami [enter/↑/↓/ctrl+c]
 kali
 ```
 
-# Messy
-## Keep: https://github.com/OrkoHunter/keep
+### Keep: https://github.com/OrkoHunter/keep
 Keep acts like a library command manager
 
 ```shell bash
@@ -33,7 +33,7 @@ Keep acts like a library command manager
 ```
 Cool thing is you can even push your library to a Github gist as a backup.
 
-## Pentest.WS: https://pentest.ws
+### Pentest.WS: https://pentest.ws
 PenTest.WS is a penetration testing web application for organizing hosts, services, vulnerabilities and credentials during a penetration test. A reporting module is available for documenting and delivering a full penetration test.
 
 Free version is sufficient for CTF writeup and/or keep trace of gathered informations.
