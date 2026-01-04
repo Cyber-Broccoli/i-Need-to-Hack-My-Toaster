@@ -1,6 +1,7 @@
 # I need to hack my toaster
 This repository is just here to keep notes of useful stuff for CTF or cybersec stuff.
-More stuff of https://cyberwiki.shellterisland.com
+
+More stuff on https://cyberwiki.shellterisland.com
 
 ## Useful terminal stuff
 
