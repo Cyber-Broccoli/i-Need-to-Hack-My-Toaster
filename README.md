@@ -1,6 +1,8 @@
 # I need to hack my toaster
 This repository is just here to keep notes of useful stuff for CTF or cybersec stuff.
 
+https://192.168.2.31:4433/lib/exe/fetch.php?tok=246e19&media=https%3A%2F%2Ftryhackme-badges.s3.amazonaws.com%2FCyberBroccoli.png
+
 ## Useful terminal stuff
 
 ### The F*ck: https://github.com/nvbn/thefuck
