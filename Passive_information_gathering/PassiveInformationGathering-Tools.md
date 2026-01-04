@@ -1,0 +1,22 @@
+# Passive Information Gathering Tools
+- host
+- whois
+- Google dorks
+- Netcraft
+- recon-ng
+- Shodan
+- Security Headers
+- QualityLabs SSL Test
+- Pastebin
+- TheHarvester
+- Social-Searcher
+- Twofi
+- LinkedIn2Username
+- OSINT Framework
+- Maltego
+- Social medias
+  - Github
+  - LinkedIn
+  - Twitter
+  - Facebook
+  - StackOverflow
